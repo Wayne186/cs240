@@ -1,0 +1,15 @@
+Host Name					Architecture (x86, SPARC)					   Endianess
+
+
+
+lore.cs.purdue.edu	  SunOS lore.cs.purdue.edu 5.10 Generic_150400-19 sun4u sparc SUNW,Sun-Fire-V445                     big Endian
+
+
+	
+
+data.cs.purdue.edu			x86_84 Intel(R) Core(TM)i7-4790S CPU		   little Endian
+	
+
+	
+
+
